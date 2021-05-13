@@ -1,5 +1,8 @@
 # Movies Fighting
 
+## Demo:
+https://mannhuynh.github.io/movie-fighting/
+
 ## Challenges:
 
 - Fetch data about movies
