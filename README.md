@@ -6,7 +6,7 @@ https://mannhuynh.github.io/movie-fighting/
 ## Challenges:
 
 - Fetch data about movies
-  - Fetch some free movies data from outside: omdbapi.com:
+  - Fetch some free movies data from outside: http://omdbapi.com/:
     - Get API key first. 
     - Use the parameters given.
     - Fetch data using AXIOS library
@@ -20,5 +20,5 @@ https://mannhuynh.github.io/movie-fighting/
     - User clicks an entry -> Update text and close menu
     - User clicks outside the dropdown -> close menu
 - Need styling with CSS:
-  - Using 'Bulma CSS' framework: bulma.io
+  - Using 'Bulma CSS' framework: https://bulma.io/
 
